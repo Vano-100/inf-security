@@ -1,0 +1,39 @@
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\фото\гитарист\ИНформационная безопасность\Лаб1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\karta\Desktop\Инф. Без. п\ready\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
