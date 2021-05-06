@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.exe
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.deps.json
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.runtimeconfig.json
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.runtimeconfig.dev.json
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.dll
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.pdb
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.csprojAssemblyReference.cache
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.AssemblyInfo.cs
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.dll
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.pdb
+C:\Users\User\Desktop\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.genruntimeconfig.cache
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.exe
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.deps.json
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.runtimeconfig.json
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.runtimeconfig.dev.json
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.dll
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.pdb
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.csprojAssemblyReference.cache
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.AssemblyInfoInputs.cache
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.AssemblyInfo.cs
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.csproj.CoreCompileInputs.cache
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.dll
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.pdb
+C:\Users\karta\Desktop\Инф. Без. п\лабы\lab 2 - infbez\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.genruntimeconfig.cache
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.exe
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.deps.json
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.runtimeconfig.json
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.runtimeconfig.dev.json
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.dll
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\bin\Debug\netcoreapp3.1\lab 2 - infbez.pdb
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.csprojAssemblyReference.cache
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.AssemblyInfoInputs.cache
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.AssemblyInfo.cs
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.csproj.CoreCompileInputs.cache
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.dll
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.pdb
+C:\Users\karta\Desktop\Инф. Без. п\ready\lab2\lab 2 - infbez\obj\Debug\netcoreapp3.1\lab 2 - infbez.genruntimeconfig.cache
